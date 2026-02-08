@@ -28,4 +28,3 @@ Betül Aydın
 
 ## Next Steps
 - Build a Tableau Public dashboard (Gender vs Scores, Parental Education vs Math, Lunch vs Performance)
-- Add SQL queries file (`analysis.sql`)
