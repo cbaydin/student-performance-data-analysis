@@ -7,7 +7,7 @@ This project is part of my Data Analyst portfolio and analyzes student performan
 - Identify the relationship between lunch type and overall success
 
 ## Tools Used
-- Python (Pandas, Matplotlib)
+- Python (Pandas)
 - SQL
 - Tableau Public
 
