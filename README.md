@@ -1,5 +1,5 @@
 # Student Performance Data Analysis
-
+🔗 This project is part of my Data Analyst portfolio demonstrating Python, SQL, and data visualization skills on real-world educational data.
 This project analyzes student performance data using Python (Pandas), SQL, and Tableau.
 
 ## Project Goals
