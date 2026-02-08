@@ -17,3 +17,16 @@ This project demonstrates data cleaning, aggregation, querying, and dashboard vi
 
 ## Author
 Betül Aydın
+## Results (Quick Summary)
+- Female students have higher average reading and writing scores.
+- Male students have higher average math scores.
+- Higher parental education level tends to correlate with better math performance.
+- Standard lunch group shows higher average scores across subjects.
+
+## Files
+- `StudentsPerformance.csv` → Dataset
+- `analysis.ipynb` → Python analysis notebook (run outputs included)
+
+## Next Steps
+- Build a Tableau Public dashboard (Gender vs Scores, Parental Education vs Math, Lunch vs Performance)
+- Add SQL queries file (`analysis.sql`)
