@@ -21,6 +21,10 @@ Betül Aydın
 - Male students have higher average math scores.
 - Higher parental education level tends to correlate with better math performance.
 - Standard lunch group shows higher average scores across subjects.
+- ## Interactive Dashboard
+
+View the interactive dashboard here:
+[Looker Studio Dashboard Link](https://lookerstudio.google.com/s/izoBRPphQCw)
 
 ## Files
 - `StudentsPerformance.csv` → Dataset
