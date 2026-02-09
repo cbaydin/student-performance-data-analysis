@@ -1,34 +1,19 @@
 # Student Performance Data Analysis
-This project is part of my Data Analyst portfolio and analyzes student performance data using Python (Pandas), SQL, and Tableau to demonstrate real-world data analysis and visualization skills.
 
-## Project Goals
-- Analyze how gender affects academic scores
-- Explore the impact of parental education on math performance
-- Identify the relationship between lunch type and overall success
+This project analyzes student performance data using Python (Pandas, Matplotlib).
+
+## Objectives
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization of performance trends
+- Extracting insights from educational data
 
 ## Tools Used
-- Python (Pandas)
-- SQL
-- Tableau Public
+Python, Pandas, Matplotlib, Jupyter Notebook
 
 ## Key Insights
-This project demonstrates data cleaning, aggregation, querying, and dashboard visualization skills using real-world educational data.
+- Relationship between study time and grades
+- Performance distribution by subjects
+- Identifying patterns in student success
 
-## Author
-Betül Aydın
-## Results (Quick Summary)
-- Female students have higher average reading and writing scores.
-- Male students have higher average math scores.
-- Higher parental education level tends to correlate with better math performance.
-- Standard lunch group shows higher average scores across subjects.
-- ## Interactive Dashboard
-
-View the interactive dashboard here:
-[Looker Studio Dashboard Link](https://lookerstudio.google.com/s/izoBRPphQCw)
-
-## Files
-- `StudentsPerformance.csv` → Dataset
-- `analysis.ipynb` → Python analysis notebook (run outputs included)
-
-## Next Steps
-- Build a Tableau Public dashboard (Gender vs Scores, Parental Education vs Math, Lunch vs Performance)
+This project demonstrates real-world data analysis skills applied to educational datasets.
